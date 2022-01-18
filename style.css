@@ -1,0 +1,45 @@
+.main{
+    width: 1340px;
+    height: 640px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    }
+    .bottom{
+        width: 600px;
+        display: flex;
+        align-items: center;
+        justify-content:space-around ;
+        color: white ;
+    }
+    .time{
+        width: 600px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        color: white ;
+        font-size: 30px;
+    }
+    .btn{
+        align-items: center;
+        justify-content: space-around;
+        color: white ;
+        font-size: 30px;
+        width: 600px;
+    }
+    button{
+        width: 195px;
+        height: 25px;
+        cursor: pointer;
+
+    }
+    h4{
+        width: 200px;
+        text-align: center;
+    }
+    h2{
+        width: 200px;
+        text-align: center;
+    }
